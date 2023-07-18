@@ -1,0 +1,5 @@
+C:\Users\Patryk\Desktop\uczelnia\Programowanie .NET\WindowsFormsApp5\Szyfrowanie\obj\Debug\net4.7.2\Szyfrowanie.csproj.AssemblyReference.cache
+C:\Users\Patryk\Desktop\uczelnia\Programowanie .NET\WindowsFormsApp5\Szyfrowanie\obj\Debug\net4.7.2\Szyfrowanie.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Patryk\Desktop\uczelnia\Programowanie .NET\WindowsFormsApp5\Szyfrowanie\obj\Debug\net4.7.2\Szyfrowanie.AssemblyInfoInputs.cache
+C:\Users\Patryk\Desktop\uczelnia\Programowanie .NET\WindowsFormsApp5\Szyfrowanie\obj\Debug\net4.7.2\Szyfrowanie.AssemblyInfo.cs
+C:\Users\Patryk\Desktop\uczelnia\Programowanie .NET\WindowsFormsApp5\Szyfrowanie\obj\Debug\net4.7.2\Szyfrowanie.csproj.CoreCompileInputs.cache

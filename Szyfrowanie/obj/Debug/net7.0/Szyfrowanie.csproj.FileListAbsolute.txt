@@ -1,0 +1,12 @@
+C:\Users\Patryk\Desktop\uczelnia\Programowanie .NET\WindowsFormsApp5\Szyfrowanie\bin\Debug\net7.0\Szyfrowanie.deps.json
+C:\Users\Patryk\Desktop\uczelnia\Programowanie .NET\WindowsFormsApp5\Szyfrowanie\bin\Debug\net7.0\Szyfrowanie.dll
+C:\Users\Patryk\Desktop\uczelnia\Programowanie .NET\WindowsFormsApp5\Szyfrowanie\bin\Debug\net7.0\Szyfrowanie.pdb
+C:\Users\Patryk\Desktop\uczelnia\Programowanie .NET\WindowsFormsApp5\Szyfrowanie\obj\Debug\net7.0\Szyfrowanie.csproj.AssemblyReference.cache
+C:\Users\Patryk\Desktop\uczelnia\Programowanie .NET\WindowsFormsApp5\Szyfrowanie\obj\Debug\net7.0\Szyfrowanie.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Patryk\Desktop\uczelnia\Programowanie .NET\WindowsFormsApp5\Szyfrowanie\obj\Debug\net7.0\Szyfrowanie.AssemblyInfoInputs.cache
+C:\Users\Patryk\Desktop\uczelnia\Programowanie .NET\WindowsFormsApp5\Szyfrowanie\obj\Debug\net7.0\Szyfrowanie.AssemblyInfo.cs
+C:\Users\Patryk\Desktop\uczelnia\Programowanie .NET\WindowsFormsApp5\Szyfrowanie\obj\Debug\net7.0\Szyfrowanie.csproj.CoreCompileInputs.cache
+C:\Users\Patryk\Desktop\uczelnia\Programowanie .NET\WindowsFormsApp5\Szyfrowanie\obj\Debug\net7.0\Szyfrowanie.dll
+C:\Users\Patryk\Desktop\uczelnia\Programowanie .NET\WindowsFormsApp5\Szyfrowanie\obj\Debug\net7.0\refint\Szyfrowanie.dll
+C:\Users\Patryk\Desktop\uczelnia\Programowanie .NET\WindowsFormsApp5\Szyfrowanie\obj\Debug\net7.0\Szyfrowanie.pdb
+C:\Users\Patryk\Desktop\uczelnia\Programowanie .NET\WindowsFormsApp5\Szyfrowanie\obj\Debug\net7.0\ref\Szyfrowanie.dll
